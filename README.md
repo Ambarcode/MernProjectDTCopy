@@ -4,6 +4,8 @@ Introducing my cutting-edge E-commerce platform, developed using the powerful ME
 
 ![Project Screenshot](./screenshots/main.png)
 ![Demo GIF](https://github.com/ankitkr2411/MernProjectDT/raw/main/screenshots/demo.gif)
+![demo](https://github.com/ankitkr2411/MernProjectDT/assets/104450059/09b36730-202c-473c-98c3-db5a3a9d4530)
+
 
 
 ## Table of Contents
